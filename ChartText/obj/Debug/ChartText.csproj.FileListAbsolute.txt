@@ -1,0 +1,9 @@
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\bin\Debug\ChartText.exe.config
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\bin\Debug\ChartText.exe
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\bin\Debug\ChartText.pdb
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\obj\Debug\ChartText.csprojResolveAssemblyReference.cache
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\obj\Debug\ChartText.Form1.resources
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\obj\Debug\ChartText.Properties.Resources.resources
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\obj\Debug\ChartText.csproj.GenerateResource.Cache
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\obj\Debug\ChartText.exe
+c:\users\smk17\documents\visual studio 2015\Projects\ChartText\ChartText\obj\Debug\ChartText.pdb
